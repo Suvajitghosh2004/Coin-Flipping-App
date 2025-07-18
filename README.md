@@ -8,7 +8,6 @@ Flip a coin with one click. Get a clean result. Simple, fast, and responsive.
 ## 🎬 Live Demo  
 [👉 Try the App (GitHub Pages)](https://tinyurl.com/yvz9ttc8)  
 [Link : https://tinyurl.com/yvz9ttc8 ]
-*(Replace the link with your deployed version)*
 
 ---
 
@@ -53,7 +52,7 @@ The **Coin Flipping App** is a minimalistic and interactive tool that simulates 
 
 ## 📂 Folder Structure
 
-coin-flipping-app/
-├── index.html # Main application file
+coin-flipping-app/ </br>
+├── index.html # Main application file </br>
 ├── README.md # Documentation
 

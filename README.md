@@ -6,7 +6,8 @@ Flip a coin with one click. Get a clean result. Simple, fast, and responsive.
 ---
 
 ## 🎬 Live Demo  
-[👉 Try the App (GitHub Pages)](https://your-github-username.github.io/coin-flipping-app/)  
+[👉 Try the App (GitHub Pages)](https://tinyurl.com/yvz9ttc8)  
+[Link : https://tinyurl.com/yvz9ttc8 ]
 *(Replace the link with your deployed version)*
 
 ---

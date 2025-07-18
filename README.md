@@ -34,13 +34,8 @@ The **Coin Flipping App** is a minimalistic and interactive tool that simulates 
 ⚡ **No Dependencies**  
 > No frameworks or installs — just open the HTML file and go.
 
----
 
-## 📸 Screenshot
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Indian_1_Rupee_Coin_Obverse_or_Heads.jpg" alt="Coin Flip App Screenshot" width="250"/>
-</p>
 
 ---
 
